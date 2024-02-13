@@ -1,16 +1,8 @@
-# kasrak10-theme README
+# Introduction
+I Am Kasra Hosseini, And I Am Also Known As "K10" Or "KasraK10" On Social Media. I Was Born In 1994 And Hold A Bachelor's Degree In Information Technology (IT). I Work As A Front-End Web Developer, Utilizing Several Technologies And Programming Language Such As HTML, CSS, , Bootstrap (V4), SCSS, JQuery. Additionally, I Have Experience In UI/UX Web Design Using Helpful Software Tools Like Adobe XD And Canva. I Also Work As A Wordpress Administrator, As Well. Thank You For Visiting!
 
-## Working with Markdown
+# About
+This is my personal and official vs code theme😁. As I have obsession with colours, I like to use vibrant and lively colours to recognize all keywords through coding.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+# What is tVS code thmes?
+VS Code themes are pre-designed color schemes and styles that modify the appearance of your code editor's user interface, including the text editor, sidebar, status bar, and other elements.
