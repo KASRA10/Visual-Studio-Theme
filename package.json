@@ -1,0 +1,21 @@
+{
+  "name": "kasrak10-theme",
+  "displayName": "KasraK10 Theme",
+  "description": "This is my personal and official vs code theme😁. As I have obsession with colours, I like to use vibrant and lively colours to recognize all keywords through coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "K10 Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/K10 Theme-color-theme.json"
+      }
+    ]
+  }
+}
