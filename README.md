@@ -6,3 +6,13 @@ This is my personal and official vs code theme😁. As I have obsession with col
 
 # What is tVS code thmes?
 VS Code themes are pre-designed color schemes and styles that modify the appearance of your code editor's user interface, including the text editor, sidebar, status bar, and other elements.
+
+# Examples of The Theme:
+
+![HTML](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/fc33cf9a-abdd-4f96-b91a-fdcbdd79ac34)
+
+![Css](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/2894f12f-a9f1-40c4-ace8-a2f15f830d0d)
+
+![JS](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/6cdbd794-5b9e-4f75-955d-94e4efbaf877)
+
+![Python](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/1fbe20bc-d6d2-4741-a2a0-afefb16ae654)
