@@ -9,10 +9,10 @@ VS Code themes are pre-designed color schemes and styles that modify the appeara
 
 # Examples of The Theme:
 
-![HTML](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/fc33cf9a-abdd-4f96-b91a-fdcbdd79ac34)
+![HTML-Image](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/8465da7d-43ec-4005-a8d5-4d1289cbb89e)
 
-![Css](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/2894f12f-a9f1-40c4-ace8-a2f15f830d0d)
+![CSS-Image](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/d882344e-5b29-4406-b507-f867c2df8b67)
 
-![JS](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/6cdbd794-5b9e-4f75-955d-94e4efbaf877)
+![JS Image](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/4e5c63f9-8b1a-414f-b99c-39404603fec4)
 
-![Python](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/1fbe20bc-d6d2-4741-a2a0-afefb16ae654)
+![Python-Image](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/13e64f07-29bd-4979-9675-81f87f67966e)
