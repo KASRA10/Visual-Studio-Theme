@@ -9,12 +9,14 @@ VS Code themes are pre-designed color schemes and styles that modify the appeara
 
 # Examples of The Theme:
 
-![HTML-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/4b6f5e2e-d386-4cd7-b2f2-f01bf0664881)
+![HTML-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/facb18fe-32bc-44a6-b680-2ddaa54411a9)
 
-![CSS-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/b7572597-447c-4629-bd9c-fdff8a67c8e9)
+![Css-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/382eb653-15ab-4363-ba9a-87b877605f16)
 
-![JS-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/4b13ad7b-80d6-452d-b026-17945cb78bd9)
+![JS-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/14fff2b6-431f-4bcb-bb58-494c8ab702bd)
 
-![Python-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/4d0cc202-fb94-4e93-9ce7-ef75b8c1dde7)
+![Python-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/f03a32d8-35aa-47fd-b4c2-7de2b5c97ff7)
 
-![PHP-test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/2897e382-d520-46c8-97e9-c4b094a0bdfd)
+![PHP-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/d8a35688-348f-4e41-aa05-d25207a4b4e1)
+
+![Swift-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/3ccb4c46-f023-4ef3-9144-d71cbfa17176)
