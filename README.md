@@ -16,4 +16,4 @@ VS Code themes are pre-designed color schemes and styles that modify the appeara
 
 # Examples of The Theme LIGHT version:
 
-![Light-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/b57b4e5a-f9f2-4384-b0b9-c32b021d98e3)
+![Light-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/96e2fbf5-2a20-4476-9dd1-ed586395e398)
