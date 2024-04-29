@@ -1,5 +1,22 @@
-node_modules
 *.vsix
 # images
 *.png
 *.jpg
+.DS_Store
+.idea/
+*.log
+*.iml
+yarn.lock
+package-lock.json
+node_modules/
+dist
+TODOs.md
+/coverage
+
+# Ignore optional external libraries
+source/lib/*
+
+# Track internal libraries & Ignore unused verdors files
+!source/lib/font-awesome/
+!source/lib/anime.min.js
+!source/lib/velocity/
