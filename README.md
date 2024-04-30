@@ -19,5 +19,3 @@ VS Code themes are pre-designed color schemes and styles that modify the appeara
 ![Light-Test](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/96e2fbf5-2a20-4476-9dd1-ed586395e398)
 
 # Examples of The Theme Mild-Dark version:
-
-![K10-Mild-Dark-Theme](https://github.com/KASRA10/Visual-Studio-Theme/assets/76257704/52466219-b713-45b3-9cc9-b2e95d1042fc)
