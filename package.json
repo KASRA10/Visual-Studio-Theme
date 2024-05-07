@@ -4,7 +4,7 @@
   "displayName": "K10 Theme",
   "description": "I absolutely love my personal VS Code theme, which is also my official one! I have a passion for vibrant and energetic colors, and I find that using them helps me easily identify keywords and variables while coding. This theme is perfect for CSS, Python, JavaScript, PHP, JSON, jQuery, Node.js, React, Android, Swift, Angular, and more. If you enjoy colorful themes and have no trouble with them, this one is definitely the best choice for you.",
   "publisher": "KasraK10",
-  "version": "0.2.10",
+  "version": "0.2.11",
   "repository": {
     "type": "git",
     "url": "https://github.com/KASRA10/Visual-Studio-Theme.git"
@@ -37,7 +37,10 @@
     "muted",
     "mild",
     "meddle",
-    "medium"
+    "medium",
+    "carbon",
+    "dark night",
+    "night"
   ],
   "contributes": {
     "themes": [
@@ -60,6 +63,11 @@
         "label": "K10 Theme-Mild-2 Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/k10-mild-dark-2-color-theme.json"
+      },
+      {
+        "label": "K10 Theme-Mild-2 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/k10-theme-dark-night-color-theme.json"
       }
     ]
   }

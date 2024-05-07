@@ -5,6 +5,7 @@ Hi Developers 👋. I am Kasra Hosseini - (K10) and I am a Developer. I have alw
 # About
 
 I absolutely love my personal VS Code theme, which is also my official one! I have a passion for vibrant and energetic colors, and I find that using them helps me easily identify keywords and variables while coding. This theme is perfect for CSS, Python, JavaScript, PHP, JSON, jQuery, Node.js, React, Android, Swift, Angular, and more. If you enjoy colorful themes and have no trouble with them, this one is definitely the best choice for you.
+⚠️ Note: There are other secret versions there which I did not uploaded their images, Install it and enjoy the variety of themes 😁🙏🌹❤️
 
 # What is VS code Theme?
 
