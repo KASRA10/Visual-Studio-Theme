@@ -65,7 +65,7 @@
         "path": "./themes/k10-mild-dark-2-color-theme.json"
       },
       {
-        "label": "K10 Theme-Mild-2 Dark",
+        "label": "K10 Theme - Dark Night",
         "uiTheme": "vs-dark",
         "path": "./themes/k10-theme-dark-night-color-theme.json"
       }
