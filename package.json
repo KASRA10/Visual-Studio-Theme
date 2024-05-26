@@ -4,7 +4,7 @@
   "displayName": "K10 Theme",
   "description": "I absolutely love my personal VS Code theme, which is also my official one! I have a passion for vibrant and energetic colors, and I find that using them helps me easily identify keywords and variables while coding. This theme is perfect for CSS, Python, JavaScript, PHP, JSON, jQuery, Node.js, React, Android, Swift, Angular, and more. If you enjoy colorful themes and have no trouble with them, this one is definitely the best choice for you.⚠️ Note: There are other secret versions there which I did not uploaded their images, Install it and enjoy the variety of themes 😁🙏🌹❤️",
   "publisher": "KasraK10",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/KASRA10/Visual-Studio-Theme.git"
@@ -72,9 +72,9 @@
         "path": "./themes/k10-theme-dark-night-color-theme.json"
       },
       {
-        "label": "K10 Theme - Dark Night Ocean",
+        "label": "K10 Theme - Dark Night 2 Ocean",
         "uiTheme": "vs-dark",
-        "path": "./k10-theme-dark-night-ocean-color-theme.json"
+        "path": "./themes/k10-theme-dark-night-2-ocean-color-theme.json"
       }
     ]
   }
