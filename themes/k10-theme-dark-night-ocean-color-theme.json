@@ -2060,7 +2060,7 @@
     "editorHoverWidget.border": "#4545456c",
     "peekView.border": "#007acc",
     "peekViewEditor.background": "#000814",
-    "peekViewEditorGutter.background": "#001f33",
+    "peekViewEditorGutter.background": "#000814",
     "peekViewEditor.matchHighlightBackground": "#ff8f0099",
     "peekViewEditor.matchHighlightBorder": "#ee931e",
     "peekViewResult.background": "#000814",
